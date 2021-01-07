@@ -78,4 +78,4 @@ spec:
           value: $(params.clusterNamespace)
       workspaces:
       - name: task-pvc
-        workspace: pipeline-pvc  
+        workspace: pipeline-pvc
